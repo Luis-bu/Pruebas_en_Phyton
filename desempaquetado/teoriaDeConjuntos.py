@@ -1,5 +1,5 @@
 conjunto1= {1, 3, 5, 7}
-conjunto2={8, 3, 2}
+conjunto2={8, 0, 2}
 
 #(bool) verificar si un conjuto es un subconjunto de otro
 resultado = conjunto2.issubset(conjunto1)

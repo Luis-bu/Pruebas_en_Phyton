@@ -7,11 +7,11 @@ diccionario = dict(nombre="Luis", apellido="Bueno", edad=17)
 #Con tuplas si se puede
 
 #Creado diccionario con .fromkeys()
-#Sirve para settear las keys al dar como parametro un elemento ITERABLE, los elementos seran None
+#Sirve para settear las keys al dar como parametro un elemento ITERABLE, TODOS los elementos seran None
 diccionario=dict.fromkeys(["Apellido", "hola"])
 
 
-#lo mismo, sol oque ahora el segundo parametro sera el valor de TODAS las keys
+#lo mismo, solo que ahora el segundo parametro sera el valor de TODAS las keys
 diccionario=dict.fromkeys("ABCDEF", "Valor arbitrario")
 
 print (diccionario)

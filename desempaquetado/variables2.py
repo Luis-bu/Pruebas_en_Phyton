@@ -16,4 +16,4 @@ print(bool3)
 set = {"sopa", "carro", 32}
 v1,v2,v3=set
 print (v2)
-import this
+

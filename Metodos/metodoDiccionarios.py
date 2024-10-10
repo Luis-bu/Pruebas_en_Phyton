@@ -10,6 +10,13 @@ claves=diccionario.keys()
 #obtiene un elemento según su key (no tira error)
 obtener=diccionario.get("nombre")
 
+#Eliminar una key
+diccionario.keys("nombre")
+
 #Eliminar todo el diccionario
 diccionario.clear()
+
+
+
+
 print(diccionario)

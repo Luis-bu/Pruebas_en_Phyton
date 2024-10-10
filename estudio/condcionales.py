@@ -6,3 +6,6 @@ if edad>=18:
 else:
     print("No entras a la fiesta")    
     
+
+
+

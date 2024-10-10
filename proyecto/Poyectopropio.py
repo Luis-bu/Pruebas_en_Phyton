@@ -30,4 +30,4 @@ while opcion!=0:
         print("Gracias por usar la calculadora")
     else:
         print("Opción no valida")
-    
+                                    

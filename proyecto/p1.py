@@ -33,4 +33,4 @@ print(f"Este curso elimina un {tiempo_vacio_dalto}% del tiempo vacio")
 
 #Mostrar diferencias de cursos si son de 10 horas
 print(f"Ver 10 horas de este curso equivalen a ver {otros_cursos_prom/estecurso*10} horas de este curso")
-print(f"Ver 10 horas de otros cursos equivalen a ver {estecurso/otros_cursos_prom*10} horas de otros cursos")
+print(f"Ver 10 horas de otros cursos equivalen a ver {estecurso/otros_cursos_prom*10} horas de este curso")

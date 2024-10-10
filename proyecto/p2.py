@@ -1,4 +1,7 @@
+#le pedimos al usuario que ingrese el texto
 texto= input ("Ingresa tu texto: \n")
+
+#Obtenemos la cantidad de palabras al volverla un array, luego sacamos el tiempo
 array=texto.split(" ")
 totalpalabras=len(array)
 tiempo=totalpalabras/2

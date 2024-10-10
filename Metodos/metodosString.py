@@ -49,5 +49,6 @@ array = texto.split(" ")
 #Cuenta el total de caracteres de una cadena
 totalletras = len(texto)
 
+#nos dice que metodos o funciones se pueden hacer con un elemento
 dir = dir(texto)
 print(dir)
