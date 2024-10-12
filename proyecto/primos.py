@@ -14,4 +14,4 @@ def primos_hasta(n):
             print(i)
             
 
-primos_hasta(100)
+primos_hasta(1000)
