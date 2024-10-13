@@ -3,8 +3,6 @@ def juego():
  
     intentos=15
     numero_secreto=random.randint(1, 1000)
-    
-
     while intentos!=0:
         print(f"Tienes {intentos} intentos")
         numero_usuario=int(input("Ingrese el numero: "))
@@ -13,8 +11,7 @@ def juego():
          print(f"Felicidades, {numero_secreto} era el numero!!")
          break
         intentos-=1
-    if (intentos==0):print("Mala suerte, no lo adivinaste")        
-       
+    if (intentos==0):print(f"Mala suerte, no lo adivinaste, el numero era {numero_secreto}")               
 def verificarNumero(numero_usuario, numero_secreto):
     if numero_usuario<numero_secreto:
         print("El numero es mayor")

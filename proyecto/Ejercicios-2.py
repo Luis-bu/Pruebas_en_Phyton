@@ -7,6 +7,6 @@ for i in range(3):
     alumno=(compañero, valor)
     compañeros.append(alumno)
 compañeros.sort(key=lambda x:x[1])
-profesor=compañeros[0][0]
-asistente=compañeros[-1][0]
+asistente=compañeros[0][0]
+profesor=compañeros[-1][0]
 print(f"El profesor es {profesor} y el asistente es {asistente}")

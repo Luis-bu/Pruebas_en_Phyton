@@ -11,7 +11,8 @@ def es_primo(num, contador=0):
 def primos_hasta(n):
     for i in range(2, n):
         if(es_primo(i)):
-            print(i)
+          print(i)
             
 
 primos_hasta(1000)
+ 

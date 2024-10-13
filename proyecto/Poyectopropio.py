@@ -15,7 +15,7 @@ while opcion!=0:
         num2 = int(input("Ahora ingrese el segundo número: "))
         
     if opcion==1:
-       print("Hola mundo")
+       print(f"La suma es {num1+num2}")
     elif opcion==2:
         print(f"La resta es: {num1-num2}")
     elif opcion==3:
@@ -30,4 +30,5 @@ while opcion!=0:
         print("Gracias por usar la calculadora")
     else:
         print("Opción no valida")
-                                    
+                            
+            

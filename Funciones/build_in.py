@@ -20,4 +20,5 @@ resultado_all=all([0,True,"String"])
 #Suma todos los valores de un ITERABLE
 sumatotal=sum(numeros)
 
+
 print(sumatotal)

@@ -18,5 +18,5 @@ for elemento in frutas:
 #Nuevo array
 Numeros=[2,5,8,10]
 #Comprensión de listas
-numeros_duplicados=[x**2 for x in Numeros]
-print (numeros_duplicados)
+numeros_cuadrado=[x**2 for x in Numeros]
+print (numeros_cuadrado)
