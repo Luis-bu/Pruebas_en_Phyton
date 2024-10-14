@@ -1,4 +1,5 @@
 import csv
+#Buscarlo
 with open ("Archivos\\archivo.csv", encoding="UTF-8") as caja:
     print("Abierto correctamente")
     
