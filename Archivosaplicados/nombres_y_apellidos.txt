@@ -1,0 +1,17 @@
+Estos son los datos:
+
+Nombre: Luis
+Apellido: Bueno
+------------------------------
+Nombre: Carlos
+Apellido: Valbuena
+------------------------------
+Nombre: David
+Apellido: Eslava
+------------------------------
+Nombre: Daniel
+Apellido: Castro
+------------------------------
+Nombre: Santiago
+Apellido: Acevedo
+------------------------------
