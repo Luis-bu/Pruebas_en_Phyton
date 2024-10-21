@@ -4,6 +4,7 @@ import seaborn as sns
 
 df = pd.read_csv("Archivos_problemas_graficos\\dispersion.csv")
 
+#Grafico de dispersión
 sns.scatterplot(x="tiempo",y="dinero",data=df)
 
 

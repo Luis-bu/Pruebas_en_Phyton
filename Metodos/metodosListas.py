@@ -31,5 +31,5 @@ lista.reverse()
 #busca un elemento en la lista según el valor
 buscar = lista.index("mundo")
 
-
 print(buscar)
+
