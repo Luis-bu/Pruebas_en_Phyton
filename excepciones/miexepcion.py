@@ -1,3 +1,4 @@
+#Creo mi propia excepción
 class MiExcepcion(Exception):
     def __init__(self, error):
         print(f"Has cometido un error y es el siguiente: {error}")

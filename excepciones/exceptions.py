@@ -13,7 +13,7 @@ def sumarxd():
         #Si algo sale mal, enviamos este mensaje 
         except Exception as e:
             print("Te pedí un numero pedazo de anormal") 
-            print(f"ERROR: {type(e).__name__}")
+            print(f"ERROR:{e}")
             
         #El bucle solo acaba si el try ocurre  correctamente (else)
         else: break

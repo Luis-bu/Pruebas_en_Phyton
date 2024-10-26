@@ -43,6 +43,7 @@ array = texto.split(" ")
 
 
 
+
 #FUNCIÓN
 
 
